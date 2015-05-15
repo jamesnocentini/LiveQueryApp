@@ -3,7 +3,7 @@
 
 target 'LiveQueryApp' do
 
-pod 'couchbase-lite-ios', '~> 1.0.4'
+pod 'couchbase-lite-ios', :git => 'https://github.com/jamiltz/couchbase-lite-ios.git'
 
 end
 
